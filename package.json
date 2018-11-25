@@ -1,0 +1,26 @@
+{
+  "name": "zadanie-7.3.1",
+  "version": "1.0.0",
+  "description": "https://gelu4.github.io/zadanie-7.3.1/",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "glob-run": "^0.1.6",
+    "onchange": "^5.1.2",
+    "rimraf": "^2.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gelu4/zadanie-7.3.1.git"
+  },
+  "author": "Gregory",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gelu4/zadanie-7.3.1/issues"
+  },
+  "homepage": "https://github.com/gelu4/zadanie-7.3.1#readme"
+}
